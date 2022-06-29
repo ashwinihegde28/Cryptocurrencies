@@ -8,7 +8,7 @@ The purpose of this analysis was to use data from to provide a report and visual
 Since the data does not have any known outcome, we needed to preprocess it to fit an unsupervised `Machine Learning` model that will enable us to run a clustering algorithm that will allow us to group the cryptocurrencies.
 
 In this analysis we learned and applied:
-* ** Differences between supervised and unsupervised learning. 
+* **Differences between supervised and unsupervised learning.**
 * **Data Preprocessing** (Selection, Transformation, Scaling) - the process of helping to prepare data for `Machine Learning` Algorithms.
 * **Elbow Curve** - method to determine the best number of clusters needed for the algorithm to group the objects by.
 * **Principal Component Analysis (`PCA`)** - statistical technique to speed up machine learning algorithms when the number of features is too high.
